@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/xdarkprince146"><img src="https://files.catbox.moe/8sqzch.jpg" width="250" height="250" alt="DADK Tech"/></a>
+ <a href="https://github.com/xdarkprince146"><img src="https://files.catbox.moe/t9x7qg.jpg" width="250" height="250" alt="DADK Tech"/></a>
 
    
